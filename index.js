@@ -1,4 +1,4 @@
-var toSpace = require('to-space-case');
+var toSpace = require('ianstormtaylor-to-space-case');
 
 
 /**

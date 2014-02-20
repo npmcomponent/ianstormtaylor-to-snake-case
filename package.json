@@ -1,11 +1,15 @@
 {
-  "name": "to-snake-case",
-  "repository": "git://github.com/ianstormtaylor/to-snake-case.git",
-  "license": "MIT",
+  "name": "ianstormtaylor-to-snake-case",
+  "description": "Convert a string to a snake case.",
   "version": "0.1.2",
-  "description": "Convert a string to snake case.",
-  "keywords": ["snake", "case", "snakecase", "string"],
+  "keywords": [
+    "snake",
+    "case",
+    "snakecase",
+    "string"
+  ],
   "dependencies": {
-    "to-space-case": "0.1.2"
-  }
+    "ianstormtaylor-to-space-case": "git://github.com/npmcomponent/ianstormtaylor-to-space-case.git"
+  },
+  "license": "MIT"
 }
